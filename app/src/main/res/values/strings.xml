@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyThreeActivitiesWithText</string>
+    <string name="first_page">First page</string>
+    <string name="second_page">Second Page</string>
+    <string name="third_page">Third Page</string>
+    <string name="go_to_second_page">Go to 2nd Page</string>
+    <string name="go_to_third_page">Go to 3rd Page</string>
+    <string name="go_to_First_page">Go to 1st Page</string>
+</resources>
